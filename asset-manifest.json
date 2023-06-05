@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflix-Clone-Project/static/css/main.ca398909.css",
+    "main.js": "/Netflix-Clone-Project/static/js/main.64df184f.js",
+    "static/media/logo.png": "/Netflix-Clone-Project/static/media/logo.5b38a2c389cdb4565fc2.png",
+    "index.html": "/Netflix-Clone-Project/index.html",
+    "main.ca398909.css.map": "/Netflix-Clone-Project/static/css/main.ca398909.css.map",
+    "main.64df184f.js.map": "/Netflix-Clone-Project/static/js/main.64df184f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca398909.css",
+    "static/js/main.64df184f.js"
+  ]
+}
